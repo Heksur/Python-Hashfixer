@@ -10,7 +10,7 @@ script = argv
 
 print """
 \t\tThis tool was created to make dividing hashes etc easily.
-\t\tIt will make a bash script so name it anything.sh
+\t\tIt will make a bash script named AWK Hash Fix.sh
 \t\tBasically it's easy-mode awk. 
 \t\tCTRL+C at any time to stop.
 """
