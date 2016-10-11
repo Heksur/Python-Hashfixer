@@ -21,5 +21,5 @@
 
 					# Python-Hashfixer V2#
 
-		# This tool is the better version of the above script, which currently doesn't support picking a piece of information, but already splits it up in a more read-able format.
-		# You insert a delimiter (eg: :) without any quotes and it's good to go.
+		    # This tool is the better version of the above script, which currently doesn't support picking a piece of information, but already splits it up in a more read-able format.
+		    # You insert a delimiter (eg: :) without any quotes and it's good to go.
